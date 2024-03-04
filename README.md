@@ -7,5 +7,5 @@ Visualised data and provided some insights on the same.
 
 The case study has the following files:
 
-Telecom_Churn_FINAL -- python file.
+telecom_churn_CS -- python file.
 TELECOM_CHURN_CASE_STUDY.pdf -- Presentation File
